@@ -1,1 +1,1 @@
-﻿﻿# exercise-repositoryRepo made for exercisesWe resolved the conflict!
+﻿﻿﻿# exercise-repositoryRepo made for exercisesWe resolved the conflict!Hello, again!
